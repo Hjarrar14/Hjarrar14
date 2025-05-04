@@ -24,17 +24,15 @@ I am a highly motivated and innovative computer science with robust programming 
 ### Senior Project: AAUbot (Full Stack)
 •⁠  ⁠*Description:* Developed an informational website using Wix to deliver academic resources, university details, and student service tools for Arab American University students and high school graduates.
 •⁠  ⁠*Highlights:* Integrated an AI-powered chatbot using LLMs, Google AI Studio, and Python for real-time responses about Palestinian universities, student clubs, and campus life.
-•⁠  ⁠*[Project Link](#)* (Replace with your project URL)
+
 
 ### Book Shop Website (Full Stack)
 •⁠  ⁠*Description:* Developed three distinct user interfaces for admin, user, and authentication (login/signup) using HTML, CSS, and JavaScript.
 •⁠  ⁠*Highlights:* Created and integrated a database using phpMyAdmin and PHP to manage data efficiently.
-•⁠  ⁠*[Project Link](#)* (Replace with your project URL)
 
 ### Store Management System (Programmer)
 •⁠  ⁠*Description:* Developed a comprehensive sales management system using C# in Visual Studio, enabling product addition, order management, and invoice generation.
 •⁠  ⁠*Highlights:* Designed an intuitive dashboard to present profits, track orders, and display key sales metrics.
-•⁠  ⁠*[Project Link](#)* (Replace with your project URL)
 
 ---
 
